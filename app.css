@@ -1,0 +1,15 @@
+img{
+    height:  300px;
+    align-self: center;
+    float: center;
+    padding-left: 600px;
+}
+body{
+    scroll-behavior: smooth;
+}
+html{
+    background-color: cadetblue;
+}
+.src{
+    font-optical-sizing: 5px;
+}
